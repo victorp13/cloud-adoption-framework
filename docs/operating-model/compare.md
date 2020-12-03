@@ -94,7 +94,7 @@ Operations is always complex. By limiting the scope of operations to one workloa
 - **Cost management:** Enterprise costs are harder to calculate. Lack of centralized governance teams make it harder to implement uniform cost controls or optimization. At scale, this model can be costly, since each workload would likely have duplication in deployed assets and staffing assignments.
 - **Responsibilities:** Lack of centralized supporting teams means that the workload team is entirely responsible for governance, security, operations, and change management. This is a detriment when those tasks have not been automated in code review and release pipelines.
 - **Standardization:** Standardization across a portfolio of workloads can become variable and inconsistent.
-- **Operations support:** Scale efficiencies are often missed. As our uniform best practices across multiple workloads.
+- **Operations support:** Scale efficiencies are often missed. As are uniform best practices across multiple workloads.
 - **Expertise:** Team members have a greater responsibility to make wise and ethical decisions regarding governance, security, operations, and change management decisions within the application design and configuration. The Microsoft Azure Well-Architected Review and Azure Well-Architected Framework should be consulted frequently to improve the required expertise.
 - **Landing zone design:** Landing zones are not workload-specific and are not considered in this approach.
 - **Foundational utilities:** Few (if any) foundational services are shared across workloads, reducing scale efficiencies.
